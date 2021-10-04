@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://azimmern.github.io/Harriot-test/annotations/harriot6782-annotationspage.json" ],
+  "otherContent" : [ "https://azimmern.github.io/Harriot-test/annotations/harriot6782-annotationspage.json", "https://azimmern.github.io/Harriot-test/annotations/harriot6782annotationspage.json" ],
   "@id" : "https://azimmern.github.io/Harriot-test/annotations/collection.json",
   "label" : "All annotations loaded in azimmern/Harriot-test project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
